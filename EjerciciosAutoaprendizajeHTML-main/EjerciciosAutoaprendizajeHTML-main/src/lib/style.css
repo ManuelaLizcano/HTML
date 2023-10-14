@@ -1,0 +1,46 @@
+
+
+h2 {
+ color: palevioletred;
+ font-size: 20px;
+ font-weight: bold;
+}
+
+p {
+ font-family: times;
+ font-size: 12px;
+ color:orange;
+
+}
+
+header{
+    color:blueviolet;
+    font-size: 30px;
+    font-weight: bold;
+}
+h3{
+    color:blueviolet;
+    font-size: 15px;
+    font-weight: bold;
+}
+li {
+    font-family: times;
+    font-size: 12px;
+    color:orange;
+   
+   }
+
+   th {
+    font-family: times;
+    font-size: 12px;
+    color:orange;
+   
+   }
+
+   tr {
+    font-family: times;
+    font-size: 12px;
+    color:orange;
+   
+   }
+
